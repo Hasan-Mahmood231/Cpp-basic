@@ -10,7 +10,7 @@ class exampl{
 			cout<<x*x<<endl;
 			
 		}
-		exampl(int x,int z){
+		exampl(int x,int z){	// same name(class_name) different paramenter 
 			cout<<x*z<<endl;
 		}
 	

@@ -10,7 +10,7 @@ class des{
 		~des(){
 			
 			cout<<"the number of obj is destroy "<<count<<endl;
-			count--;
+			count--;	
 		}
 		
 };
