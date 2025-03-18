@@ -7,6 +7,8 @@ Welcome to my **C++ Course Repository**! 🌟 Here, I upload **topics covering f
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%F0%9F%92%BB-blue?style=for-the-badge)
+
 
 ## 📚 **Topics Covered**  
 
